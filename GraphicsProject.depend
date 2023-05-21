@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1684605171 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\board.cpp
+	"board.hpp"
+	"tile.hpp"
+
+1684597104 c:\users\domon\documents\Új mappa\graphicslib64_0412\board.hpp
+	"window.hpp"
+	"widgets.hpp"
+	<functional>
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\window.hpp
+	"widgets.hpp"
+	<vector>
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\widgets.hpp
+	"graphics.hpp"
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\graphics.hpp
+	<string>
+	<vector>
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\tile.hpp
+	"textbox.hpp"
+	"functional"
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\textbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684598013 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\button.cpp
+	"button.hpp"
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\button.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<functional>
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684604826 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\gamemaster.cpp
+	"gamemaster.hpp"
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\gamemaster.hpp
+	"numberinput.hpp"
+	"button.hpp"
+	"window.hpp"
+	"textinput.hpp"
+	"textbox.hpp"
+	"board.hpp"
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\numberinput.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<functional>
+
+1684523852 c:\users\domon\documents\Új mappa\graphicslib64_0412\textinput.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\listbox.cpp
+	"listbox.hpp"
+	<vector>
+	<cstdlib>
+
+1684348522 c:\users\domon\documents\Új mappa\graphicslib64_0412\listbox.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\main.cpp
+	"window.hpp"
+	<vector>
+	"gamemaster.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\numberinput.cpp
+	"numberinput.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\textinput.cpp
+	"textinput.hpp"
+	"graphics.hpp"
+
+1684605079 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\tile.cpp
+	"tile.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\widgets.cpp
+	"widgets.hpp"
+	"window.hpp"
+
+1684348522 source:c:\users\domon\documents\Új mappa\graphicslib64_0412\window.cpp
+	"window.hpp"
+	"widgets.hpp"
+
+1684671457 source:c:\users\domon\documents\amoba_sajat\board.cpp
+	"board.hpp"
+	"tile.hpp"
+
+1684670962 c:\users\domon\documents\amoba_sajat\board.hpp
+	"window.hpp"
+	"widgets.hpp"
+	<functional>
+
+1684348522 c:\users\domon\documents\amoba_sajat\window.hpp
+	"widgets.hpp"
+	<vector>
+
+1684670366 c:\users\domon\documents\amoba_sajat\widgets.hpp
+	"graphics.hpp"
+
+1684348522 c:\users\domon\documents\amoba_sajat\graphics.hpp
+	<string>
+	<vector>
+
+1684608660 c:\users\domon\documents\amoba_sajat\tile.hpp
+	"textbox.hpp"
+	"functional"
+
+1684608241 c:\users\domon\documents\amoba_sajat\textbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684674226 source:c:\users\domon\documents\amoba_sajat\button.cpp
+	"button.hpp"
+
+1684608067 c:\users\domon\documents\amoba_sajat\button.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<functional>
+
+1684348522 source:c:\users\domon\documents\amoba_sajat\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1684348522 c:\users\domon\documents\amoba_sajat\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684670887 source:c:\users\domon\documents\amoba_sajat\gamemaster.cpp
+	"gamemaster.hpp"
+
+1684608822 c:\users\domon\documents\amoba_sajat\gamemaster.hpp
+	"button.hpp"
+	"window.hpp"
+	"textbox.hpp"
+	"board.hpp"
+
+1684348522 c:\users\domon\documents\amoba_sajat\numberinput.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<functional>
+
+1684523852 c:\users\domon\documents\amoba_sajat\textinput.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684348522 source:c:\users\domon\documents\amoba_sajat\listbox.cpp
+	"listbox.hpp"
+	<vector>
+	<cstdlib>
+
+1684348522 c:\users\domon\documents\amoba_sajat\listbox.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1684673578 source:c:\users\domon\documents\amoba_sajat\main.cpp
+	"window.hpp"
+	<vector>
+	"jatekmester.hpp"
+
+1684348522 source:c:\users\domon\documents\amoba_sajat\numberinput.cpp
+	"numberinput.hpp"
+
+1684672366 source:c:\users\domon\documents\amoba_sajat\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+
+1684348522 source:c:\users\domon\documents\amoba_sajat\textinput.cpp
+	"textinput.hpp"
+	"graphics.hpp"
+
+1684671923 source:c:\users\domon\documents\amoba_sajat\tile.cpp
+	"tile.hpp"
+
+1684607421 source:c:\users\domon\documents\amoba_sajat\widgets.cpp
+	"widgets.hpp"
+	"window.hpp"
+
+1684674354 source:c:\users\domon\documents\amoba_sajat\window.cpp
+	"window.hpp"
+	"widgets.hpp"
+
+1684674182 source:c:\users\domon\documents\amoba_sajat\mezok.cpp
+	"mezok.hpp"
+
+1684673298 c:\users\domon\documents\amoba_sajat\mezok.hpp
+	"textwidget.hpp"
+	"functional"
+
+1684673466 c:\users\domon\documents\amoba_sajat\textwidget.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1684673466 source:c:\users\domon\documents\amoba_sajat\textwidget.cpp
+	"textwidget.hpp"
+	"graphics.hpp"
+
+1684693757 source:c:\users\domon\documents\amoba_sajat\amoba.cpp
+	"amoba.hpp"
+	"mezok.hpp"
+
+1684673492 c:\users\domon\documents\amoba_sajat\amoba.hpp
+	"window.hpp"
+	"widgets.hpp"
+	<functional>
+
+1684694129 source:c:\users\domon\documents\amoba_sajat\jatekmester.cpp
+	"jatekmester.hpp"
+
+1684673659 c:\users\domon\documents\amoba_sajat\jatekmester.hpp
+	"button.hpp"
+	"window.hpp"
+	"textwidget.hpp"
+	"amoba.hpp"
+
